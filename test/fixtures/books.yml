@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  isbn: 1
+  titulo: MyString
+  anio: 1
+  resumen: MyText
+  editorial_id: 1
+
+two:
+  isbn: 1
+  titulo: MyString
+  anio: 1
+  resumen: MyText
+  editorial_id: 1
